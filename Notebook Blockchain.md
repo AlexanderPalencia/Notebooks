@@ -333,6 +333,23 @@ state of their virtual machine.
 
 ![](media/2758912bd7b095afc77ed0f5665ef957.jpg)
 
+
+collaboration and cryptography work together to create a layer of trust.
+people are allowed to own their own data 
+Today, organizations use our data, sell our data, store our data, and exchange our data.
+Data is a extreamly powerful asset.
+With blockchain people are allowed to own their own data. You can now share the information that you choose with any organization that you desire.
+The power of blockchain and owning your own data is the ability to transact peer-to-peer.
+Hoy en dia cuando se hace una transaccion por ejemplo compra no le estoy pagando directamente al vendedor si no que una base de datos en el banco hace el debito. la data en la base de datos pertenece al intermediario no al individuo a estos intermediarios les confiamos la seguridad de nuestra informacion personal y la validacion para hacer la transaccion en cambio con blockchain uno con su llave privada es dueño de su informacion y el intercambio es directo.
+
+Peer to peer transaction create transparency another leyer of trust with this we can avoid corruption and cost saving.
+Hoy en dia las bases de datos de los bancos o base de datos centralizadas no son publicas lo que hace mas facil que puedan hacer corrupcion o algo ilegal, es mas facil de obtener acceso, mas vulnerable a ciberataques y a cibercriminales, en blockchain los atacantes deberian atacar a un monton de computaras por lo menos al 51% de los hosts  de red (tambien llamado como el consenso) lo que implica encontrar y vulnerar multiples hosts.
+
+
+Blockchain offers efficiency. It also creates trust and financial benefit through transparency, security, immutability, and accessibility through ownership.
+
+
+
 Difference between enconding and encryption
 
 <https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/>
