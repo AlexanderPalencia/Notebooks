@@ -371,7 +371,13 @@ All it validates is that that information hasn't been changed since it was origi
 The structure of blocks is publicly defined, and invalid blocks will be publicly rejected.
 Each block “locks in” the value of previous blocks by including their hash. Attackers cannot find another block that will produce the same hash.
 
-A block cannot be forged or modified, because it is digitally signed by the creator of a block is either publicly known (Proof of Stake) or difficult to become (Proof of Work)the transaction is also singed by the owner. every bloc in the chain was the hash of the previos block    
+A block cannot be forged or modified, because it is digitally signed by the creator of a block is either publicly known (Proof of Stake) or difficult to become (Proof of Work)the transaction is also singed by the owner. every bloc in the chain was the hash of the previos block
+ethereum and Hyperledger use transaction and block is digitally signed and are linked using cryptographic hashes. Cordova uses a notary sevice that verify the transaction and sing.
+
+Hashing and Chaining with Proof of Work consensus
+is used to created and inmmutable chain of blocks
+cuando es tiempo de validar un bloque completo toda la red will start to guess a nonce value.
+
 
 Difference between enconding and encryption
 
