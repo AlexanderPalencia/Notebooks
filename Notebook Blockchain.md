@@ -349,6 +349,14 @@ Hoy en dia las bases de datos de los bancos o base de datos centralizadas no son
 Blockchain offers efficiency. It also creates trust and financial benefit through transparency, security, immutability, and accessibility through ownership.
 
 
+Transparency in traditional Database
+CRUD
+The existence of an Update operation means that each value in the database is only the most recent version of that value and could have had different values in the past, deleted values are not visible in the database. have low transparency but can store data in an efficient manner.
+
+Blockchain
+blockchain is designed to be a data structure that only allows appending not support for modification or deletion.:
+Entire history of the blockchain is publicly visible, immutable and stored in a distributed and decentralized fashion. Values in the blockchain can be “updated” by appending a new version but the past version is allways preserved. This characteristic make blockchain completely transparent is easily verifiable by any user. Sacrifice storage efficiency for trustworthiness of the stored data.
+
 
 Difference between enconding and encryption
 
