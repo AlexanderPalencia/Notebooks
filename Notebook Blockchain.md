@@ -356,7 +356,22 @@ The existence of an Update operation means that each value in the database is on
 Blockchain
 blockchain is designed to be a data structure that only allows appending not support for modification or deletion.:
 Entire history of the blockchain is publicly visible, immutable and stored in a distributed and decentralized fashion. Values in the blockchain can be “updated” by appending a new version but the past version is allways preserved. This characteristic make blockchain completely transparent is easily verifiable by any user. Sacrifice storage efficiency for trustworthiness of the stored data.
+ full transparency into the smart contracts that execute on that blockchain.
+ 
+On the private blockchain side, what we have [is] permissioning.
+And we can control how open or closed our data is.
 
+immutability --> trustless
+The idea that once a record gets committed to the blockchain or to the ledger, it's there permanently.
+only exist 2 function add and read
+the desing of blockchain is a very inefficient solution.
+We are asking a large number of nodes, all the nodes on a network, to perform exactly the same work as every other node. they are duplicating the word, the only method to change data in the blockchain is to chaingin the record in the 51% 
+In other words, blockchain doesn't do anything to validate that the information on it is correct.
+All it validates is that that information hasn't been changed since it was originally written.
+The structure of blocks is publicly defined, and invalid blocks will be publicly rejected.
+Each block “locks in” the value of previous blocks by including their hash. Attackers cannot find another block that will produce the same hash.
+
+A block cannot be forged or modified, because it is digitally signed by the creator of a block is either publicly known (Proof of Stake) or difficult to become (Proof of Work)the transaction is also singed by the owner. every bloc in the chain was the hash of the previos block    
 
 Difference between enconding and encryption
 
