@@ -30,7 +30,7 @@ inflacion: no existe, moneda deflacionaria
 fee: 0.1 XEM y 0.15 por encriptacion
 Algoritmo de consenso: POI: Proof of importance algoritmo aigenTrust++
 2 transacciones por segundo
-1 bloque por minuto
+1 bloque por minuto Estimado
 mosaicos: tokens
 Harvesting: Vested Balance
 super nodos: Sopore a la red se necesita 3,000,000 de XEM, hay un fondo para los super nodos con el que se les paga por ser parte de la red.
