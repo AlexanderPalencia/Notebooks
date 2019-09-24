@@ -14,3 +14,25 @@ mosaics allow new levels of blockchain utility and versatility.  A mosaic is lik
  namespace + mosaic will always be unique. mosaics is like token have the characteristic of divisibility, mutable quantity, transferability
 
 Namespaces: is unique in the net of NEM,  namespaces can have sub-namespaces.Namespaces can have up to 3 levels, a namespace and its two levels of sub-namespace domains.top level namespace has a size limit of 16 characters, sub-namespaces have a limit of 64 characters. 
+
+
+Smart Contracts
+NEM is a flexible blockchain technology. Instead of uploading all the application logic into the blockchain, you can use its tested features through API calls for transfer and storage of value, authorization, traceability, and identification.
+
+The rest of the code remains off-chain. This reduces the inherent immutability risk, as you could change the process when necessary.
+
+
+
+Links
+https://nemtech.github.io/getting-started/first-application.html
+Introduction | NEM Documentation
+https://docs.nem.io/en/nem-sdk/nem-sdk-install
+
+(301) NEM Programming Part 1 - Beginners Tutorial - YouTube
+https://www.youtube.com/watch?v=DWZWkIvsq-8
+
+QuantumMechanics/NEM-sdk: NEM Developer Kit for Node.js and the browser
+https://github.com/QuantumMechanics/NEM-sdk
+
+Writing your first application — NEM Developer Center
+https://nemtech.github.io/getting-started/first-application.html
