@@ -21,6 +21,24 @@ NEM is a flexible blockchain technology. Instead of uploading all the applicatio
 
 The rest of the code remains off-chain. This reduces the inherent immutability risk, as you could change the process when necessary.
 
+Gobernanza: Decisiones
+code is law:
+Token nativo: XEM
+oferta maxima 9,999,999,999
+Cantidad en circulacion (minada): 100%
+inflacion: no existe, moneda deflacionaria
+fee: 0.1 XEM y 0.15 por encriptacion
+Algoritmo de consenso: POI: Proof of importance algoritmo aigenTrust++
+2 transacciones por segundo
+1 bloque por minuto
+mosaicos: tokens
+Harvesting: Vested Balance
+super nodos: Sopore a la red se necesita 3,000,000 de XEM, hay un fondo para los super nodos con el que se les paga por ser parte de la red.
+Super nodos: 
+Infreaestructura:
+NIS
+testNet: 
+
 
 
 Links
