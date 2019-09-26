@@ -37,7 +37,8 @@ super nodos: Sopore a la red se necesita 3,000,000 de XEM, hay un fondo para los
 Super nodos: 
 Infreaestructura:
 NIS
-testNet: 
+Adrees in the test net always start with a T.
+adrees in the main net start with a N.
 
 
 
