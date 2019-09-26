@@ -39,6 +39,8 @@ Infreaestructura:
 NIS
 Adrees in the test net always start with a T.
 adrees in the main net start with a N.
+the account use Ed25519 cryptographic keypair
+The private key uniquely identifies a NEM account. The public key is derived from the private key, and the address of the account is derived from the public key.
 
 
 
